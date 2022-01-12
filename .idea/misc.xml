@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/maini/AndroidStudioProjects/l2/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.35625" />
+        <entry key="..\:/Users/maini/AndroidStudioProjects/l2/app/src/main/res/layout/card_layout.xml" value="0.3359375" />
+        <entry key="..\:/Users/maini/AndroidStudioProjects/l2/app/src/main/res/layout/fragment_favourite.xml" value="0.1" />
+        <entry key="..\:/Users/maini/AndroidStudioProjects/l2/app/src/main/res/layout/fragment_home.xml" value="0.3359375" />
+        <entry key="..\:/Users/maini/AndroidStudioProjects/l2/app/src/main/res/layout/main_activity.xml" value="0.3359375" />
+        <entry key="..\:/Users/maini/AndroidStudioProjects/l2/app/src/main/res/layout/main_fragment.xml" value="0.3359375" />
+        <entry key="..\:/Users/maini/AndroidStudioProjects/l2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3359375" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

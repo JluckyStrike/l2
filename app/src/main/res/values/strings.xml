@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">l2</string>
+    <string name="title_fav">Favourite</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Favourite fragment</string>
 </resources>
